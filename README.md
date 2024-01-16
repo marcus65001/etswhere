@@ -13,3 +13,4 @@ Requires `discord.py`, set Discord bot token `TOKEN` in `.env` file.
 Run `python discord_bot.py`
 
 ## Screenshot
+![screenshot](https://github.com/marcus65001/etswhere/blob/main/.screenshot/sc_etswhere.png?raw=true)
